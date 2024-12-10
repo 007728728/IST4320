@@ -12,7 +12,7 @@ class VideoFileScannerApp:
     def __init__(self, root):
         self.root = root
         self.root.title("Video File Scanner")
-        self.root.geometry("600x400")
+        self.root.geometry("1200x800")
         self.root.configure(bg="darkgrey")
 
         
